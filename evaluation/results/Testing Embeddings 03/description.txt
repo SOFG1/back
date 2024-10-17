@@ -1,0 +1,1 @@
+e_llm & a_llm = openchat, e_modell = intfloat/multilingual-e5-large, SentenceSplitter(CHUNK_SIZE=512, CHUNK_OVERLAP=40)
