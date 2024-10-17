@@ -1,0 +1,1 @@
+e_llm = qwen:7 & a_llm = openchat, e_modell = BAAI/bge-m3, SentenceSplitter(CHUNK_SIZE=512, CHUNK_OVERLAP=40)
