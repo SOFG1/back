@@ -1,0 +1,1 @@
+e_llm & a_llm = openchat, e_modell = facebook/contriever, german_keyword_extractor, german_qa_extractor
